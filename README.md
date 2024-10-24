@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm passionate about transforming machine learning models 
 ### 🛠️ Tech Stack:
 - **ML/DL**: PyTorch, TensorFlow, Scikit-learn
 - **Data**: Pandas, NumPy, Matplotlib
-- **MLOps**: Docker, MLflow
+- **MLOps**: Docker, MLflow. FastAPI, Flask
 - **Cloud**: AWS
 - **Automation**: GitHub Actions, CI/CD
 
@@ -28,5 +28,3 @@ Feel free to connect or collaborate on exciting MLOps projects!
 🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-123/)
 
 ---
-
-This intro captures key elements of your expertise, showcases your tech stack, and invites collaboration!
