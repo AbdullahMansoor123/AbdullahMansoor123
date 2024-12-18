@@ -2,7 +2,7 @@
 
 🚀 **MLOps Engineer** | Automating ML Workflows | Building Scalable Systems
 
-Welcome to my GitHub! I'm passionate about transforming machine learning models into scalable, production-ready systems. My work focuses on:
+Welcome to my GitHub! I'm passionate about using machine learning models into scalable, production-ready systems that help improve human productivity. My work focuses on:
 
 - **End-to-End MLOps Solutions**: From model training to deployment and monitoring.
 - **Cloud & Automation**: Leveraging AWS, and GitHub Actions to streamline workflows.
